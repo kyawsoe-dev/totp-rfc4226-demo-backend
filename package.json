@@ -1,5 +1,5 @@
 {
-  "name": "totp-rfc4226-demo",
+  "name": "totp-rfc4226-demo-backend",
   "version": "1.0.0",
   "description": "TOTP RFC4226 demo application backend",
   "main": "app.js",
