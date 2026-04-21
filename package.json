@@ -1,7 +1,7 @@
 {
   "name": "totp-rfc4226-demo",
   "version": "1.0.0",
-  "description": "TOTP RFC4226 demo application",
+  "description": "TOTP RFC4226 demo application backend",
   "main": "app.js",
   "scripts": {
     "start": "node src/app.js",
